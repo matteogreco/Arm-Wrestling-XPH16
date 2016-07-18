@@ -1,3 +1,5 @@
+# Authors: Matteo Greco, Stephen Bono, Nicolò Grassi, Karym El Kniba
+
 #Set "Audio-Video" configuration
 
 from pynq import Overlay
