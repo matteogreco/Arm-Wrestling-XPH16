@@ -194,7 +194,7 @@ frameOut = videoOut.frame(0)
 frameCount = 0
 start = time.time()
 ​
-img = cv2.imread('image8.jpg')
+img = cv2.imread('image.jpg')
 ​
 try:
     while(True):
